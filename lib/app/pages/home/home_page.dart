@@ -29,7 +29,7 @@ final ProdutoStore store = ProdutoStore(
       appBar: AppBar(
         backgroundColor: Colors.deepPurple
         title: const Text(
-          'Consumo de APIs',
+          'Consumindo APIs',
           style: TextStyle(
             color: Colors.white,
             fontWeight: FontWeight.bold,
